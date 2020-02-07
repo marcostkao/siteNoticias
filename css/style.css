@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(151, 151, 151);
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.card-body{
+    padding: 10px;
+}
